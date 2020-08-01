@@ -1,4 +1,4 @@
-# Python-for-Everybody-Specialization
+# Python for Everybody Specialization
 ## List of Courses with Direct Enroll Link:
 
 ### 1. Programming for Everybody (Getting Started with Python) 
